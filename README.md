@@ -19,7 +19,9 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Cursando o curso de Análise e Desenvolvimento de Sistemas!
+  ### Para conteúdo sobre programação, me segue nas redes abaixo!
+  
  
 <div> 
   
